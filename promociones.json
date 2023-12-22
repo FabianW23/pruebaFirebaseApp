@@ -11,14 +11,9 @@
       "title": "Promociones Habana"
     },
     {
-      "url": "https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/Promo-Santa-Marta.jpg",
+      "url": "https://content.r9cdn.net/rimg/dimg/b8/40/56bf1d03-city-26923-1663b0d8359.jpg",
       "action": "https://www.bebolder.co/",
-      "title": "Santa Marta Test"
-    },
-    {
-      "url": "https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Santo-Domingo.jpg",
-      "action": "https://www.bebolder.co/",
-      "title": "Santo Domingo Test"
+      "title": "Cartagena Test"
     }
   ]
 }
