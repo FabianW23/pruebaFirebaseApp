@@ -1,0 +1,24 @@
+{
+  "slide": [
+    {
+      "url": "https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Caracas.jpg",
+      "action": "https://www.wingo.com",
+      "title": "Viaja a Caracas"
+    },
+    {
+      "url": "https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Lima.jpg",
+      "action": "https://www.youtube.com/",
+      "title": "Viaja a Lima"
+    },
+    {
+      "url": "https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Medellin.jpg",
+      "action": "https://www.bebolder.co/",
+      "title": "Viaja a Medellin"
+    },
+    {
+      "url": "https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Cartagena.jpg",
+      "action": "https://www.bebolder.co/",
+      "title": "Viaja a Cartagena"
+    }
+  ]
+}
