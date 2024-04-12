@@ -1,36 +1,36 @@
 {
-   "slide":[
-      {
-         "url":"https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Caracas.jpg",
-         "action":"https://www.wingo.com",
-         "title":"Viaja a Caracas",
-         "city":"Caracas",
-         "price":"198.5",
-         "discount":"30"
-      },
-      {
-         "url":"https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Lima.jpg",
-         "action":"https://www.youtube.com/",
-         "title":"Viaja a Lima",
-         "city":"Lima",
-         "price":"168.8",
-         "discount":"20"
-      },
-      {
-         "url":"https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Medellin.jpg",
-         "action":"https://www.bebolder.co/",
-         "title":"Viaja a Medellin",
-         "city":"Medellin",
-         "price":"84.5",
-         "discount":"10"
-      },
-      {
-         "url":"https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Cartagena.jpg",
-         "action":"https://www.bebolder.co/",
-         "title":"Viaja a Cartagena",
-         "city":"Cartagena",
-         "price":"81.5",
-         "discount":"15"
-      }
-   ]
+   "slide":[
+      {
+         "url":"https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Caracas.jpg",
+         "action":"https://www.wingo.com",
+         "title":"Viaja a Caracas",
+         "city":"Caracas",
+         "price":"198.5",
+         "discount":"30"
+      },
+      {
+         "url":"https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Lima.jpg",
+         "action":"https://www.youtube.com/",
+         "title":"Viaja a Lima",
+         "city":"Lima",
+         "price":"168.8",
+         "discount":"20"
+      },
+      {
+         "url":"https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Medellin.jpg",
+         "action":"https://www.bebolder.co/",
+         "title":"Viaja a Medellin",
+         "city":"Medellin",
+         "price":"84.5",
+         "discount":"10"
+      },
+      {
+         "url":"https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Cartagena.jpg",
+         "action":"https://www.bebolder.co/",
+         "title":"Viaja a Cartagena",
+         "city":"Cartagena",
+         "price":"81.5",
+         "discount":"15"
+      }
+   ]
 }
