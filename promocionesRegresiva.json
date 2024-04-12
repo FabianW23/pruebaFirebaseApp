@@ -5,33 +5,33 @@
       "action": "https://www.wingo.com",
       "title": "Viaja a Caracas",      
       "city": "Caracas",      
-      "price": "198,5"
+      "price": "111"
     },
     {
       "url": "https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Lima.jpg",
       "action": "https://www.youtube.com/",
       "title": "Viaja a Lima",      
       "city": "Lima",      
-      "price": "198,5"
+      "price": "382"
     },
     {
       "url": "https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Medellin.jpg",
       "action": "https://www.bebolder.co/",
       "title": "Viaja a Medellin",      
       "city": "Medellin",      
-      "price": "198,5"    
+      "price": "137"    
     },
     {
       "url": "https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Cartagena.jpg",
       "action": "https://www.bebolder.co/",
       "title": "Viaja a Cartagena",      
       "city": "Cartagena",      
-      "price": "198,5"    
+      "price": "203"    
     }
   ],
   "discount":[
     {
-      "percent": "30",
+      "percent": "40",
     }
   ]
 }
