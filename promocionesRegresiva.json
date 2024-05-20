@@ -4,7 +4,7 @@
          "url":"https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Bogota.jpg",
          "action":"https://www.wingo.com",
          "title":"Viaja a Bogota",
-         "city":"Caracas",
+         "city":"Bogota",
          "price":"58.5",
          "discount":"10"
       },
@@ -12,7 +12,7 @@
          "url":"https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Santo-Domingo.jpg",
          "action":"https://www.youtube.com/",
          "title":"Viaja a Santo Domingo",
-         "city":"Lima",
+         "city":"Santo Domingo",
          "price":"268.8",
          "discount":"12"
       },
@@ -20,7 +20,7 @@
          "url":"https://storage.googleapis.com/gcp-wingo-pro-public/images/newVuela/promociones/promo-Punta-cana.jpg",
          "action":"https://www.bebolder.co/",
          "title":"Viaja a Punta cana",
-         "city":"Medellin",
+         "city":"Punta cana",
          "price":"384.5",
          "discount":"25"
       }
